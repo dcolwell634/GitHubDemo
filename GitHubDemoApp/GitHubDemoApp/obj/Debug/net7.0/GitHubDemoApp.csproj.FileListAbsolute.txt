@@ -1,0 +1,15 @@
+C:\Users\dcolw\source\repos\GitHubDemoApp\GitHubDemoApp\bin\Debug\net7.0\GitHubDemoApp.exe
+C:\Users\dcolw\source\repos\GitHubDemoApp\GitHubDemoApp\bin\Debug\net7.0\GitHubDemoApp.deps.json
+C:\Users\dcolw\source\repos\GitHubDemoApp\GitHubDemoApp\bin\Debug\net7.0\GitHubDemoApp.runtimeconfig.json
+C:\Users\dcolw\source\repos\GitHubDemoApp\GitHubDemoApp\bin\Debug\net7.0\GitHubDemoApp.dll
+C:\Users\dcolw\source\repos\GitHubDemoApp\GitHubDemoApp\bin\Debug\net7.0\GitHubDemoApp.pdb
+C:\Users\dcolw\source\repos\GitHubDemoApp\GitHubDemoApp\obj\Debug\net7.0\GitHubDemoApp.csproj.AssemblyReference.cache
+C:\Users\dcolw\source\repos\GitHubDemoApp\GitHubDemoApp\obj\Debug\net7.0\GitHubDemoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dcolw\source\repos\GitHubDemoApp\GitHubDemoApp\obj\Debug\net7.0\GitHubDemoApp.AssemblyInfoInputs.cache
+C:\Users\dcolw\source\repos\GitHubDemoApp\GitHubDemoApp\obj\Debug\net7.0\GitHubDemoApp.AssemblyInfo.cs
+C:\Users\dcolw\source\repos\GitHubDemoApp\GitHubDemoApp\obj\Debug\net7.0\GitHubDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\dcolw\source\repos\GitHubDemoApp\GitHubDemoApp\obj\Debug\net7.0\GitHubDemoApp.dll
+C:\Users\dcolw\source\repos\GitHubDemoApp\GitHubDemoApp\obj\Debug\net7.0\refint\GitHubDemoApp.dll
+C:\Users\dcolw\source\repos\GitHubDemoApp\GitHubDemoApp\obj\Debug\net7.0\GitHubDemoApp.pdb
+C:\Users\dcolw\source\repos\GitHubDemoApp\GitHubDemoApp\obj\Debug\net7.0\GitHubDemoApp.genruntimeconfig.cache
+C:\Users\dcolw\source\repos\GitHubDemoApp\GitHubDemoApp\obj\Debug\net7.0\ref\GitHubDemoApp.dll
