@@ -1,2 +1,2 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, My name is Mr. Colwell!");
+Console.WriteLine("Hello, .NET - Welcome to GitHub Demo!");
