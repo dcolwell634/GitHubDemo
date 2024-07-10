@@ -1,3 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
+DateTime today = DateTime.Now;
 
-Console.WriteLine("Hello, My name is Mr. Colwell!");
+Console.WriteLine($"Hello, today is: {today.ToString("")}");
